@@ -1,0 +1,29 @@
+{
+  "name": "koay-res",
+  "version": "1.0.0",
+  "description": "try to build a compatible express' response for koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "koay",
+    "http",
+    "response",
+    "res"
+  ],
+  "author": "Jesse Feng",
+  "license": "MIT",
+  "dependencies": {
+    "celia": "^5.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koayjs/koay-res.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koayjs/koay-res/issues"
+  },
+  "homepage": "https://github.com/koayjs/koay-res#readme"
+}
